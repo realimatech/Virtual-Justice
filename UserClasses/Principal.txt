@@ -1,0 +1,33 @@
+classe Principal{
+
+       global:Personagem astra = novo Personagem();
+
+       metodo:nada main(){
+            var:Cubo c = novo Cubo(0.5,0.5,0.5);
+            astra.cub = c;
+            astra.forca = 200;
+            astra.inteligencia = 200;
+            astra.habilidade = 200;
+       } 
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

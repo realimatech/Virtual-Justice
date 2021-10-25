@@ -1,0 +1,65 @@
+classe Cubo{
+
+      global:numerico tamx; 
+      global:numerico tamy;
+      global:numerico tamz;
+
+      construtor:nada Cubo(var:numerico tx, var:numerico ty, var:numerico tz){
+           tamx = tx;
+           tamy = ty;
+           tamz = tz;
+      }  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

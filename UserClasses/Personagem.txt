@@ -1,0 +1,22 @@
+classe Personagem{
+
+     global:Cubo cub = nada;
+     global:numerico forca = 10;
+     global:numerico inteligencia = 10;
+     global:numerico habilidade = 10;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
